@@ -1,0 +1,1 @@
+# Contain Clans file that has been used in visualize the protein clusters and all the protein domains fasta files
